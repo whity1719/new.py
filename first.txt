@@ -3,3 +3,5 @@ hajimeteno git
 ayumi
 
 aisiteruyo
+
+git status
