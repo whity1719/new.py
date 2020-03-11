@@ -5,3 +5,6 @@ ayumi
 aisiteruyo
 
 git status
+
+git diff
+
